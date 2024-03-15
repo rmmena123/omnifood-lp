@@ -29,7 +29,7 @@ Paragraph default: 1.6
 - Tints: #fdf2e9, #fae5d3, #eb984e
 - Shades: #cf711f, #45260a
 - Accents:
-- Greys: #555, #333,  #6f6f6f, #aaa
+- Greys: #555, #333,  #6f6f6f, #aaa, #767676
 
 --- 03 IMAGES (unsplash.com and uifaces.com)
 
@@ -107,6 +107,10 @@ body {
 
 .grid--4-cols {
   grid-template-columns: repeat(4, 1fr);
+}
+
+.grid--5-cols {
+  grid-template-columns: repeat(5, 1fr);
 }
 
 .grid--center-v {

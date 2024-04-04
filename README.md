@@ -2,9 +2,8 @@
     <img alt="Omnifood" title="Omnifood" src="https://github.com/rmmena123/omnifood-lp/assets/68246508/24c81fd6-7ffb-4492-8963-79544d075dc2" width="300">
 </h1>
 
-<p align="center">
-  Project created in the [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course. It's a responsive landing page about Omnifood, the smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs.
-</p>
+Project created in the [Build Responsive Real-World Websites with HTML and CSS](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/) course. It's a responsive landing page about Omnifood, the smart 365-days-per-year food subscription that will make you eat healthy again. Tailored to your personal tastes and nutritional needs.
+
 
 - Live site URL: https://omnifood-rmmena.netlify.app/ 
 
